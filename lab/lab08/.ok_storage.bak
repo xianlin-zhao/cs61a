@@ -1,0 +1,6 @@
+'subseqs-correct', (0, 70)
+'non_decrease_subseqs-correct', (512, 70)
+'Keyboard-correct', (1024, 70)
+'trade-correct', (1536, 70)
+'deep_len-correct', (2048, 70)
+'prune_small-correct', (2560, 70)
